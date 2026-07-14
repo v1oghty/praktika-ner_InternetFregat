@@ -1,0 +1,3 @@
+legal_ner_model/
+__pycache__/
+*.bin
